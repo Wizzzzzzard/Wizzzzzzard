@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Data Analytics and Optimisation
 - 🌱 I’m currently studying for my Master's in Data Analytics
 - 💞️ I’m looking to collaborate on anything at an intermediary level I can practice on
-- 📫 How to reach me: elijah.reid.2020@uni.strath.ac.uk
+- 📫 How to reach me: elijah797@gmail.com
 
 <!---
 Wizzzzzzard/Wizzzzzzard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
