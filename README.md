@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Wizzzzzzard
-- 👀 I’m interested in Machine Learning, Data Analytics and Optimisation
-- 🌱 I’m currently studying for my Master's in Data Analytics
-- 💞️ I’m looking to collaborate on anything at an intermediary level I can practice on
-- 📫 How to reach me: elijah797@gmail.com
+- 👋 Hi, I’m Elijah Reid
+- 🌱 I’m a Software Developer currently working at [the SAS Institute](https://github.com/sassoftware)
+
 
 <!---
 Wizzzzzzard/Wizzzzzzard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
